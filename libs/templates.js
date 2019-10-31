@@ -60,7 +60,7 @@ angular.module('app').run(['$templateCache', function($templateCache) {
     "        </div>\n" +
     "    </div>\n" +
     "</nav>\n" +
-    "<a ng-if=\"$root.isActive('/')\" href=\"https://github.com/guggero/blockchain-demo/\">\n" +
+    "<a ng-if=\"$root.isActive('/')\" href=\"https://github.com/markshope/blockchain-demo/\">\n" +
     "    <img src=\"images/fork-me-on-github-ribbon.png\" alt=\"Fork me on GitHub\" class=\"github-ribbon\">\n" +
     "</a>\n" +
     "<div ng-class=\"$root.$route.current.containerClass\" ng-view>\n" +
