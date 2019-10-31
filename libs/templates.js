@@ -825,7 +825,7 @@ angular.module('app').run(['$templateCache', function($templateCache) {
     "\n" +
     "A web-based demonstration of blockchain concepts.<br/><br/>\n" +
     "This is a complete rewrite of <a href=\"https://github.com/anders94/blockchain-demo\">Anders Brownworth's\n" +
-    "  Blockchain Demo</a> by <a href="https://github.com/guggero/blockchain-demo">Oliver gugger</a> with changes by [Mark Shope](https://github.com/markshope) for use as a teaching tool to explain concepts related to the legal field.<br/>\n" +
+    "  Blockchain Demo</a> by <a href="https://github.com/guggero/blockchain-demo">Oliver Gugger</a> with changes by <a href="https://github.com/markshope/blockchain-demo">Mark Shope</a> for use as a teaching tool to explain concepts related to the legal field.<br/>\n" +
     "Anders Brownworth's <a href="https://www.youtube.com/watch?v=_160oMzblY8">excellent Demo\n" +
     "  Video</a> remains a classic.\n" +
     "<br/><br/>\n" +
