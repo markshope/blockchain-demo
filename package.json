@@ -1,8 +1,8 @@
 {
   "name": "blockchain-demo",
   "version": "1.0.0",
-  "repository": "git@github.com:guggero/blockchain-demo.git",
-  "author": "Oliver Gugger <gugger@gmail.com>",
+  "repository": "git@github.com:markshoipe/blockchain-demo.git",
+  "author": "Mark Shope <markshope@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.0",
