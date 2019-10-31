@@ -825,33 +825,21 @@ angular.module('app').run(['$templateCache', function($templateCache) {
     "\n" +
     "A web-based demonstration of blockchain concepts.<br/><br/>\n" +
     "This is a complete rewrite of <a href=\"https://github.com/anders94/blockchain-demo\">Anders Brownworth's\n" +
-    "  Blockchain Demo</a> with lots of additional features.<br/>\n" +
-    "Basically only the idea shown in his <a href=\"https://www.youtube.com/watch?v=_160oMzblY8\">excellent Demo\n" +
-    "  Video</a> remains, the code is completely different.\n" +
+    "  Blockchain Demo</a> by <a href="https://github.com/guggero/blockchain-demo">Oliver gugger</a> with changes by [Mark Shope](https://github.com/markshope) for use as a teaching tool to explain concepts related to the legal field.<br/>\n" +
+    "Anders Brownworth's <a href="https://www.youtube.com/watch?v=_160oMzblY8">excellent Demo\n" +
+    "  Video</a> remains a classic.\n" +
     "<br/><br/>\n" +
-    "\n" +
-    "If you are looking for the cryptographic tools that were found behind the\n" +
-    "&quot;Advanced&quot; menu, <a href=\"https://guggero.github.io/cryptography-toolkit\">they have been moved\n" +
-    "  to their own project]</a>.\n" +
-    "<br/><br/>\n" +
+
     "\n" +
     "Changes in detail:\n" +
     "<ul>\n" +
-    "  <li>Static HTML/JS, so it can be served with GitHub Pages</li>\n" +
-    "  <li>Use AngularJS for rendering the page</li>\n" +
-    "  <li>Add explanations to most pages</li>\n" +
-    "  <li>Expert Mode that shows many details</li>\n" +
-    "  <li>Show/implement concept of mining difficulty (in Expert Mode)</li>\n" +
-    "  <li>Show duration and speed of mining process (in Expert Mode)</li>\n" +
-    "  <li>Toggle between TX/Coinbase and Data view</li>\n" +
+    "  <li>Coming Soon . . . </li>\n" +
     "</ul>\n" +
     "\n" +
     "<p class=\"pull-right\">\n" +
-    "  by <a href=\"https://github.com/guggero\">Oliver Gugger</a><br>\n" +
-    "  BTC tip address: bc1qfgua5vhwm6myajak9p4crhwmwm2k6mczf789eh<br/><br/>\n" +
+    "  updates by <a href="https://github.com/markshope">Mark Shope</a><br>\n" +
+    "  rewrite by <a href=\"https://github.com/guggero\">Oliver Gugger</a><br>\n" +
     "  original idea by <a href=\"http://andersbrownworth.com/\">Anders Brownworth </a><br/>\n" +
-    "  BTC: 1K3NvcuZzVTueHW1qhkG2Cm3viRkh2EXJp<br/>\n" +
-    "  ETH: 0x84a90e21d9d02e30ddcea56d618aa75ba90331ff\n" +
     "</p>\n"
   );
 
