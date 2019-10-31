@@ -1,31 +1,17 @@
 # Blockchain Demo
 A web-based demonstration of blockchain concepts.
 
-[Live version](https://guggero.github.io/blockchain-demo/)
+[Live version](https://markshope.github.io/blockchain-demo/)
 
-This is a complete rewrite of [Anders Brownworth's Blockchain Demo](https://github.com/anders94/blockchain-demo) with
-lots of additional features.
-Basically only the idea shown in his [excellent Demo Video](https://www.youtube.com/watch?v=_160oMzblY8) remains,
-the code is completely different. That's why it's not a fork any more but a standalone repository.
+This is a complete rewrite of [Anders Brownworth's Blockchain Demo](https://github.com/anders94/blockchain-demo) by [Oliver Gugger](https://github.com/guggero) with changes by [Mark Shope](https://github.com/markshope). 
 
-If you are looking for the cryptographic tools that were found behind the
-"Advanced" menu, [they have been moved to their own project](https://github.com/guggero/cryptography-toolkit/).
+## Changes in detail:
+* Coming soon, but in general used as a teaching tool to explain concepts related to the legal field.
 
-Changes in detail:
-* Static HTML/JS, so it can be served with GitHub Pages
-* Use AngularJS for rendering the page
-* Add explanations to most pages
-* Expert Mode that shows many details
-* Show/implement concept of mining difficulty (in Expert Mode)
-* Show duration and speed of mining process (in Expert Mode)
-* Toggle between TX/Coinbase and Data view
+## Credit
 
-## Send Thanks
+Updated by [Mark Shope](https://github.com/markshope)
 
-Created by [Oliver Gugger](https://github.com/guggero):
-* BTC tip address: `bc1qfgua5vhwm6myajak9p4crhwmwm2k6mczf789eh`
+Created by [Oliver Gugger](https://github.com/guggero)
 
-Original idea by, [anders94](https://github.com/anders94):
-* BTC: `1K3NvcuZzVTueHW1qhkG2Cm3viRkh2EXJp`
-* ETH: `0x84a90e21d9d02e30ddcea56d618aa75ba90331ff`
-
+Original idea by [anders94](https://github.com/anders94)
