@@ -14,7 +14,7 @@ function CoinbasePageController() {
     name: 'Peer A',
     blocks: [{
       number: 1,
-      nonce: 114530,
+      nonce: 41240,
       data: {
         coinbase: {value: 100, to: 'Mark'},
         txs: []
@@ -22,27 +22,27 @@ function CoinbasePageController() {
       prev: '0000000000000000000000000000000000000000000000000000000000000000'
     }, {
       number: 2,
-      nonce: 110437,
+      nonce: 63474,
       data: {
         coinbase: {value: 100, to: 'Mark'},
         txs: [{value: 10, from: 'Mark', to: 'Sergio'}]
       }
     }, {
       number: 3,
-      nonce: 70198,
+      nonce: 61656,
       data: {
         txs: [{value: 5, from: 'Sergio', to: 'Jeff'}]
       }
     }, {
       number: 4,
-      nonce: 13951,
+      nonce: 9479,
       data: {
         txs: [{value: 20, from: 'Mark', to: 'Wendy'}, {value: 5, from: 'Mark', to: 'Jeff'}
         ]
       }
     }, {
       number: 5,
-      nonce: 25442,
+      nonce: 18790,
       data: {
         txs: [{value: 65, from: 'Mark', to: 'Wendy'}]
       }
@@ -51,7 +51,7 @@ function CoinbasePageController() {
     name: 'Peer B',
     blocks: [{
       number: 1,
-      nonce: 114530,
+      nonce: 41240,
       data: {
         coinbase: {value: 100, to: 'Mark'},
         txs: []
@@ -59,27 +59,27 @@ function CoinbasePageController() {
       prev: '0000000000000000000000000000000000000000000000000000000000000000'
     }, {
       number: 2,
-      nonce: 110437,
+      nonce: 63474,
       data: {
         coinbase: {value: 100, to: 'Mark'},
         txs: [{value: 10, from: 'Mark', to: 'Sergio'}]
       }
     }, {
       number: 3,
-      nonce: 70198,
+      nonce: 61656,
       data: {
         txs: [{value: 5, from: 'Sergio', to: 'Jeff'}]
       }
     }, {
       number: 4,
-      nonce: 13951,
+      nonce: 9479,
       data: {
         txs: [{value: 20, from: 'Mark', to: 'Wendy'}, {value: 5, from: 'Mark', to: 'Jeff'}
         ]
       }
     }, {
       number: 5,
-      nonce: 25442,
+      nonce: 18790,
       data: {
         txs: [{value: 65, from: 'Mark', to: 'Wendy'}]
       }
@@ -88,7 +88,7 @@ function CoinbasePageController() {
     name: 'Peer C',
     blocks: [{
       number: 1,
-      nonce: 114530,
+      nonce: 41240,
       data: {
         coinbase: {value: 100, to: 'Mark'},
         txs: []
@@ -96,27 +96,27 @@ function CoinbasePageController() {
       prev: '0000000000000000000000000000000000000000000000000000000000000000'
     }, {
       number: 2,
-      nonce: 110437,
+      nonce: 63474,
       data: {
         coinbase: {value: 100, to: 'Mark'},
         txs: [{value: 10, from: 'Mark', to: 'Sergio'}]
       }
     }, {
       number: 3,
-      nonce: 70198,
+      nonce: 61656,
       data: {
         txs: [{value: 5, from: 'Sergio', to: 'Jeff'}]
       }
     }, {
       number: 4,
-      nonce: 13951,
+      nonce: 9479,
       data: {
         txs: [{value: 20, from: 'Mark', to: 'Wendy'}, {value: 5, from: 'Mark', to: 'Jeff'}
         ]
       }
     }, {
       number: 5,
-      nonce: 25442,
+      nonce: 18790,
       data: {
         txs: [{value: 65, from: 'Mark', to: 'Wendy'}]
       }
